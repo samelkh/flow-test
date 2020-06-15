@@ -12,3 +12,6 @@ sudo docker run --rm \
     --bind 0.0.0.0:3569 \
     --detach \
     --loglevel=error 
+cd flow-test.sh
+chmod +x
+./ flow1-test
