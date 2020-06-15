@@ -14,4 +14,4 @@ sudo docker run --rm \
     --loglevel=error 
 cd flow-test.sh
 chmod +x
-./ flow1-test
+./ flow1-test.sh
